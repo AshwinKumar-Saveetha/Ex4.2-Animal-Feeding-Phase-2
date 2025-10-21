@@ -1,4 +1,4 @@
-# Ex4.2-Animal-Feeding-Phase-2
+# Ex3.2-Animal-Feeding-Phase-2
 
 ### Name: Ashwin Kumar A
 ### Reg No: 212223040021
